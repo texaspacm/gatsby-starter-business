@@ -9,7 +9,7 @@ const NavBar = () => {
     <nav className='navbar is-fixed-top' aria-label='main navigation'>
       <div className='navbar-brand'>
         <Link to='/' className='navbar-item'>
-                    Gatsby Starter Business
+                    Apartment Landing Pages
         </Link>
         <button className='button navbar-burger' data-target='navMenu'>
           <span />
